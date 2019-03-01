@@ -1,6 +1,6 @@
 ## Date Building ##
 
-This project provides a script which will package HowardHinnant's date library in a similar manner to the other `build-*` projects.  It contains as a submodule, It contains as a submodule, the [toonetown/date][date-release] git project.
+This project provides a script which will package HowardHinnant's date library in a similar manner to the other `build-*` projects.  It contains as a submodule, It contains as a submodule, the [date][date-release] git project.
 
 [date-release]: https://github.com/toonetown/date
 
